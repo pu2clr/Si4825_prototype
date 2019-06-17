@@ -18,7 +18,7 @@ O documento [AN738](https://www.silabs.com/documents/public/application-notes/AN
 
 ## Passos para a montagem
 
-1. Faça a montagem com base no circuito da página 11 do [AN738](https://www.silabs.com/documents/public/application-notes/AN738.pdf).
+1. Faça a montagem com base no circuito da página 11 do documento [AN738](https://www.silabs.com/documents/public/application-notes/AN738.pdf).
 2. Selecione a configuração de bandas com base na  table apresentada na página 4 (Table 3. Band Sequence Definition for Si4825-A).
 
 
@@ -41,8 +41,8 @@ Um simples busca no ebay ou AliExpress com a palavra "si4825" mostrará dezenas 
 
 ## Vídeos
 
-[Protótipo de Rádio AM, FM e OC baseado no Si4825A](https://youtu.be/LscqPhFYeGc)
-[Teste em OC de um protótipo de rádio AM, FM e OC de baixo custo](https://youtu.be/ZS32zr9E_cw)
+1. [Protótipo de Rádio AM, FM e OC baseado no Si4825A](https://youtu.be/LscqPhFYeGc)
+2. [Teste em OC de um protótipo de rádio AM, FM e OC de baixo custo](https://youtu.be/ZS32zr9E_cw)
 
 
 

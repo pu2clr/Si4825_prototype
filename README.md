@@ -1,4 +1,4 @@
-# Protótipo de um rádio AM, FM e OC de baixo custo
+# Protótipo de um rádio AM, FM e OC de baixo custo com base no SI4825 
 
 ## Observação: Este documento ainda está em fase de construção e revisão. 
 
